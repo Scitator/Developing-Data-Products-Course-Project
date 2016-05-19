@@ -38,7 +38,7 @@ The summary, plot and table would be automatically updated.
 Reactive Summary: Application
 ========================================================
 
-- The application can be found in https://...
+- The application can be found in https://scitator.shinyapps.io/CourseProject-ReactiveSummary/
 - We can see the summary for rock dataset:
 
 ![alt](./presentation-figure/demo.png)
